@@ -1,5 +1,5 @@
 # rock-paper-scissors
-python program for rock, paper, scissors game with scores, 
+python program for rock, paper, scissors game with scores of user and computer, 
 
 steps:
 
